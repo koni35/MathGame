@@ -16,7 +16,7 @@ const App: Component = () => {
   }
   return (
     <div class={styles.App}>
-      <div> Hallo </div>
+      <div> Hallo 132</div>
       <div> {nr()}</div>
       <button onClick={handleStart}> start</button>
       <button onClick={handleStop}> stop</button>
